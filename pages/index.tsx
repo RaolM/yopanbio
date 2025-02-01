@@ -190,7 +190,7 @@ export default function Home() {
                                       title="Api"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      official WhatsApp group
+                                      WhatsApp group
                                     </span>
                                   </div>
                                 </div>
@@ -271,7 +271,7 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Contact me
+                                      Contact Me
                                     </span>
                                     <span
                                       title=""
@@ -314,7 +314,7 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      my tiktok
+                                      My TikTok
                                     </span>
                                     <span
                                       title=""
